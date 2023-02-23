@@ -1,0 +1,139 @@
+# Unbreak
+# > General
+DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
+DOMAIN,bdtj.tagtic.cn
+# > Alibaba
+DOMAIN,log.mmstat.com
+DOMAIN,sycm.mmstat.com
+# > Google
+DOMAIN-SUFFIX,blog.google // Google Blog
+DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
+DOMAIN,clientservices.googleapis.com
+DOMAIN,update.googleapis.com
+DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,update.googleapis.com
+# >> Firebase Cloud Messaging
+DOMAIN,mtalk.google.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+# > Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+DOMAIN,vi.l.qq.com
+# > Strava
+DOMAIN,analytics.strava.com
+# > Umeng
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+# iCloud
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,gc.apple.com
+DOMAIN-SUFFIX,icloud.apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX,iwork.apple.com
+DOMAIN-KEYWORD,icloud.com.akadns.net
+# iCloud email
+# DOMAIN-SUFFIX,mail.icloud.com.cn
+DOMAIN-SUFFIX,mail.me.com
+# > System
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,*WeatherFoundation*
+USER-AGENT,%E5%9C%B0%E5%9B%BE*
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,com.apple.trustd*
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,Maps*
+USER-AGENT,TestFlight*
+USER-AGENT,trustd*
+DOMAIN,api.smoot.apple.com
+DOMAIN,captive.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,configuration.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,smp-device-content.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,time-ios.apple.com
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,time.asia.apple.com
+DOMAIN-SUFFIX,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,weather-data.apple.com
+DOMAIN-SUFFIX,weather-edge.apple.com
+DOMAIN-SUFFIX,weather-map.apple.com
+DOMAIN-SUFFIX,weather-map2.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN,gs-loc.apple.com
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+# Sina
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,sinaimg.com.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,api.weibo.cnDOMAIN,api.weibo.cn
+DOMAIN,vvebo.vip
+# Hupu
+DOMAIN-SUFFIX,hoopchina.com
+DOMAIN-SUFFIX,hoopchina.com.cn
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,hupucdn.com
+# Umeng
+DOMAIN,errlog.umeng.com
+DOMAIN,ulogs.umeng.com
+# Bilibili
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+# Douyu
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyuba.cn
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,douyupcdn.cn
+# ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
+# Tencent
+DOMAIN,pingma.qq.com
+DOMAIN,ios.rqd.qq.com
+DOMAIN,ubook.reader.qq.com
+DOMAIN,wetype.weixin.qq.com
+# Other
+DOMAIN-SUFFIX,gala.convection.cn
+DOMAIN,qdfont.qidian.com
+
