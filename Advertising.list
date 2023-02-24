@@ -1,3 +1,10 @@
+# zhihu
+DOMAIN,mqtt.zhihu.com,REJECT
+DOMAIN,sugar.zhihu.com,REJECT
+DOMAIN,crash2.zhihu.com,REJECT
+DOMAIN,appcloud.zhihu.com,REJECT
+DOMAIN,appcloud2.in.zhihu.com,REJECT
+
 # Advertising
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
