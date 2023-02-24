@@ -1187,3 +1187,5 @@ DOMAIN,data.mistat.xiaomi.com,REJECT
 DOMAIN,tracking.intl.miui.com,REJECT
 # > Tencent
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+
+IP-CIDR,203.107.1.1/24,REJECT
