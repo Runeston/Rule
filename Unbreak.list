@@ -124,10 +124,6 @@ DOMAIN-SUFFIX,douyuba.cn
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyucdn2.cn
 DOMAIN-SUFFIX,douyupcdn.cn
-# ChatGPT
-DOMAIN-SUFFIX,openai.com
-DOMAIN,cdn.auth0.com
-DOMAIN,openaiapi-site.azureedge.net
 # Tencent
 DOMAIN,pingma.qq.com
 DOMAIN,ios.rqd.qq.com
