@@ -70,5 +70,15 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 
+# > LAN
+DOMAIN-SUFFIX,local
+IP-CIDR,192.168.0.0/16
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,127.0.0.0/8
+IP-CIDR,100.64.0.0/10
+IP-CIDR,224.0.0.0/4
+IP-CIDR6,fe80::/10
+
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
