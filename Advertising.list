@@ -1196,3 +1196,5 @@ DOMAIN,tracking.intl.miui.com,REJECT
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 
 IP-CIDR,203.107.1.1/24,REJECT
+IP-CIDR,180.76.76.200/32,REJECT
+
