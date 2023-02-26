@@ -815,6 +815,7 @@ DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
 # > Tencent Music (TME)
 DOMAIN,ad.tencentmusic.com,REJECT
 DOMAIN,adstats.tencentmusic.com,REJECT
+DOMAIN,tmead.y.qq.com,REJECT
 DOMAIN,adserviceretry.kugou.com,REJECT
 DOMAIN,ads.service.kugou.com,REJECT
 DOMAIN,adsfile.bssdlbig.kugou.com,REJECT
