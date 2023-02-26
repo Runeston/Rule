@@ -9,6 +9,8 @@ DOMAIN,crash2.zhihu.com,REJECT
 DOMAIN,appcloud.zhihu.com,REJECT
 DOMAIN,appcloud2.in.zhihu.com,REJECT
 
+DOMAIN,btrace.qq.com,REJECT
+
 # Advertising
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
