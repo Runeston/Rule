@@ -96,40 +96,6 @@ DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ls.apple.com
-# Sina
-DOMAIN-SUFFIX,sinaimg.cn
-DOMAIN-SUFFIX,sinaimg.com
-DOMAIN-SUFFIX,sinaimg.com.cn
-DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,api.weibo.cn
-DOMAIN,vvebo.vip
-# Hupu
-DOMAIN-SUFFIX,hoopchina.com
-DOMAIN-SUFFIX,hoopchina.com.cn
-DOMAIN-SUFFIX,hupu.com
-DOMAIN-SUFFIX,hupucdn.com
-# Umeng
-DOMAIN,errlog.umeng.com
-DOMAIN,ulogs.umeng.com
-# Bilibili
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-# Douyu
-DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,douyuba.cn
-DOMAIN-SUFFIX,douyucdn.cn
-DOMAIN-SUFFIX,douyucdn2.cn
-DOMAIN-SUFFIX,douyupcdn.cn
-# Tencent
-DOMAIN,pingma.qq.com
-DOMAIN,ios.rqd.qq.com
-DOMAIN,ubook.reader.qq.com
-DOMAIN,wetype.weixin.qq.com
+
 # Other
-DOMAIN-SUFFIX,gala.convection.cn
-DOMAIN,qdfont.qidian.com
 DOMAIN,ad.12306.cn
