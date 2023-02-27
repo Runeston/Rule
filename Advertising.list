@@ -8,8 +8,11 @@ DOMAIN,sugar.zhihu.com,REJECT
 DOMAIN,crash2.zhihu.com,REJECT
 DOMAIN,appcloud.zhihu.com,REJECT
 DOMAIN,appcloud2.in.zhihu.com,REJECT
-
+# tencent
+DOMAIN,sdk.e.qq.com,REJECT
 DOMAIN,btrace.qq.com,REJECT
+DOMAIN-SUFFIX,mdt.qq.com,REJECT
+DOMAIN-SUFFIX,gdt.qq.com,REJECT
 
 # Advertising
 # > General
@@ -612,9 +615,11 @@ IP-CIDR,101.227.200.28/32,REJECT
 IP-CIDR,124.192.153.42/32,REJECT
 # ------
 # > ByteDance
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
-DOMAIN,ad.toutiao.com,REJECT
-DOMAIN,pangolin.snssdk.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN,ad.toutiao.com
+DOMAIN,dsp.toutiao.com
+DOMAIN,pangolin.snssdk.com
 # > baicizhan
 DOMAIN,advertise.baicizhan.com,REJECT
 DOMAIN,advertise.baicizhan.org,REJECT
