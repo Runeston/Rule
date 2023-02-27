@@ -97,5 +97,23 @@ DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 
+# weibo
+DOMAIN,vvebo.vip
+DOMAIN,api.weibo.cn
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,weibocdn.com
+# hupu
+DOMAIN,sentry.hupu.com
+DOMAIN,collect.hupu.com
+DOMAIN-SUFFIX,hoopchina.com.cn
+DOMAIN-SUFFIX,mobileapi.hupu.com
+DOMAIN-SUFFIX,oss-cn-hangzhou.aliyuncs.com
+# bilibili
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilivideo.com
+
 # Other
 DOMAIN,ad.12306.cn
