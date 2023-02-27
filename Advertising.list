@@ -2,15 +2,6 @@
 IP-CIDR,203.107.1.1/24,REJECT
 # tieba
 IP-CIDR,180.76.76.200/32,REJECT
-# zhihu
-DOMAIN,mqtt.zhihu.com,REJECT
-DOMAIN,sugar.zhihu.com,REJECT
-DOMAIN,crash2.zhihu.com,REJECT
-DOMAIN,appcloud.zhihu.com,REJECT
-DOMAIN,appcloud2.in.zhihu.com,REJECT
-# tencent
-DOMAIN,btrace.qq.com,REJECT
-DOMAIN-SUFFIX,mdt.qq.com,REJECT
 
 # Advertising
 # > General
@@ -604,6 +595,7 @@ DOMAIN,mobads.baidu.com,REJECT
 DOMAIN,mobads-logs.baidu.com,REJECT
 DOMAIN,nadvideo2.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
+DOMAIN,mbdp02.bdstatic.com,REJECT
 # > iQIYI
 DOMAIN,t7z.cupid.iqiyi.com,REJECT
 DOMAIN,t7z.cupid.ptqy.gitv.tv,REJECT
@@ -817,6 +809,8 @@ DOMAIN,splashqqlive.gtimg.com,REJECT
 DOMAIN,wa.gtimg.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
 DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
+DOMAIN,btrace.qq.com,REJECT
+DOMAIN-SUFFIX,mdt.qq.com,REJECT
 # > Tencent Music (TME)
 DOMAIN,ad.tencentmusic.com,REJECT
 DOMAIN,adstats.tencentmusic.com,REJECT
@@ -895,6 +889,8 @@ USER-AGENT,AVOS*,REJECT
 DOMAIN,appcloud2.in.zhihu.com,REJECT
 DOMAIN,mqtt.zhihu.com,REJECT
 DOMAIN,sugar.zhihu.com,REJECT
+DOMAIN,crash2.zhihu.com,REJECT
+DOMAIN,appcloud.zhihu.com,REJECT
 DOMAIN,118.89.204.198,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
