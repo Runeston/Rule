@@ -479,6 +479,7 @@ DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,combot.org
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,stripe.com
@@ -494,9 +495,10 @@ DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,nebula-emby.com
+DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,community.nssurge.com
 DOMAIN-SUFFIX,scorecardresearch.com
-DOMAIN,combot.org
+DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN,lottery.tg
 DOMAIN,workingcopy.app
 DOMAIN,res.stayfork.app
