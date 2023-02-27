@@ -496,6 +496,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,community.nssurge.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,cloudflareinsights.com
