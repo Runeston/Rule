@@ -2,10 +2,24 @@ DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,pingfore
 
 DOMAIN,ad.tencentmusic.com
+DOMAIN,ad.toutiao.com
 DOMAIN,adimg.uve.weibo.com
+DOMAIN,adimg.vue.weibo.com
+DOMAIN,admarketing.yahoo.net
+DOMAIN,ads-img-qc.xhscdn.com
 DOMAIN,ads-video-al.xhscdn.com
+DOMAIN,ads-video-qc.xhscdn.com
+DOMAIN,ads.auctions.yahoo.com
+DOMAIN,ads.finance.yahoo.com
+DOMAIN,ads.yahoo.com
+DOMAIN,ads.yahoo.de
+DOMAIN,ads.youtube.com
+DOMAIN,adsmind.apdcdn.tc.qq.com
 DOMAIN,adsmind.gdtimg.com
+DOMAIN,adsmind.tc.qq.com
+DOMAIN,adsmind.ugdtimg.com
 DOMAIN,adstats.tencentmusic.com
+DOMAIN,adx.hupu.com
 DOMAIN,afd.baidu.com
 DOMAIN,als.baidu.com
 DOMAIN,amdc.m.taobao.com
@@ -13,6 +27,8 @@ DOMAIN,appcloud.zhihu.com
 DOMAIN,appcloud2.in.zhihu.com
 DOMAIN,btrace.qq.com
 DOMAIN,crash2.zhihu.com
+DOMAIN,dsp.toutiao.com
+DOMAIN,duclick.baidu.com
 DOMAIN,dxp.baidu.com
 DOMAIN,feed.baidu.com
 DOMAIN,galaxy.bjcathay.com
@@ -20,28 +36,56 @@ DOMAIN,goblin.hupu.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,hpd.baidu.com
+DOMAIN,hui.sohu.com
 DOMAIN,iadmusicmat.music.126.net
+DOMAIN,js-ad.a.yximgs.com
 DOMAIN,ma-adx.ctrip.com
+DOMAIN,mobads.baidu.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,mobileads.msn.com
 DOMAIN,mqtt.zhihu.com
+DOMAIN,nadvideo2.baidu.com
+DOMAIN,nsclick.baidu.com
+DOMAIN,optimus-ads.amap.com
+DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,pangolin.snssdk.com
 DOMAIN,pgdt.gtimg.cn
+DOMAIN,pgdt.gtimg.com
+DOMAIN,pgdt.ugdtimg.com
 DOMAIN,rp.hpplay.cn
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,sax.sina.com.cn
+DOMAIN,saxs.sina.com.cn
+DOMAIN,saxn.sina.com.cn
+DOMAIN,splashqqlive.gtimg.com
 DOMAIN,sugar.zhihu.com
+DOMAIN,t-ads.xiaohongshu.com
 DOMAIN,tmead.y.qq.com
+DOMAIN,tunion-api.m.taobao.com
 DOMAIN,u1.img.mobile.sina.cn
+DOMAIN,wa.gtimg.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,zgsdk.zhugeio.com
+
 
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,a1.itc.cn
+DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashxgc.ut.taobao.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,ads-pixiv.net
-DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,ads.msn.com
+DOMAIN-SUFFIX,ads1.msn.com
+DOMAIN-SUFFIX,ads2.msn.com
+DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adsafeprotected.com
+DOMAIN-SUFFIX,adserver.yahoo.com
+DOMAIN-SUFFIX,adspecs.yahoo.com
 DOMAIN-SUFFIX,adtng.com
+DOMAIN-SUFFIX,advertising.yahoo.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,api.share.mob.com
 DOMAIN-SUFFIX,apoll.m.taobao.com
@@ -49,9 +93,11 @@ DOMAIN-SUFFIX,applog.uc.cn
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN-SUFFIX,bdimg.share.baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,c0.ifengimg.com
@@ -59,6 +105,7 @@ DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,cmshow.gtimg.cn
 DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,d3g.qq.com
 DOMAIN-SUFFIX,data.vod.itc.cn
@@ -67,6 +114,7 @@ DOMAIN-SUFFIX,devs.data.mob.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,dn-growing.qbox.me
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,eclick.360doc.com
@@ -75,10 +123,14 @@ DOMAIN-SUFFIX,edigitalsurvey.com
 DOMAIN-SUFFIX,em.baidu.com
 DOMAIN-SUFFIX,fclick.baidu.com
 DOMAIN-SUFFIX,fyber.com
+DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,go.sohu.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com
 DOMAIN-SUFFIX,hdj.baidu.com
@@ -104,7 +156,6 @@ DOMAIN-SUFFIX,networkbench.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,news.ssp.qq.com
 DOMAIN-SUFFIX,nex.163.com
-DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,optnx.com
@@ -119,7 +170,9 @@ DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,promote.caixin.com
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,pubnative.info
+DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,rads.msn.com
 DOMAIN-SUFFIX,res.qhupdate.com
 DOMAIN-SUFFIX,rqd.qq.com
 DOMAIN-SUFFIX,rtbasia.com
@@ -155,4 +208,18 @@ DOMAIN-SUFFIX,yun.lvehaisen.com
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 
+
+# > ChinaUnicom
+IP-CIDR,106.75.231.48/32,no-resolve
+IP-CIDR,119.4.249.166/32,no-resolve
+IP-CIDR,220.196.52.141/32,no-resolve
+IP-CIDR,221.6.4.148/32,no-resolve
+# > Douban
+AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
+
+# > Hijacking
+IP-CIDR,39.107.15.115/32,no-resolve
+IP-CIDR,47.89.59.182/32,no-resolve
+IP-CIDR,103.49.209.27/32,no-resolve
+IP-CIDR,123.56.152.96/32,no-resolve
 
