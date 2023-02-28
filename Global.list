@@ -480,6 +480,7 @@ DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,50zw.com
+DOMAIN-SUFFIX,swag.live
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,combot.org
@@ -487,6 +488,8 @@ DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,6sense.com
+DOMAIN-SUFFIX,customer.io
+DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,dh-team.org
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,gstatic.com
@@ -499,6 +502,7 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,mktorest.com
 DOMAIN-SUFFIX,mktoutil.com
 DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,canarymail.io
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,revenuecat.com
@@ -514,6 +518,7 @@ DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN,lottery.tg
 DOMAIN,m.ibiquge.net
+DOMAIN,t.as-stats.com
 DOMAIN,workingcopy.app
 DOMAIN,res.stayfork.app
 DOMAIN,www.teamform.com
