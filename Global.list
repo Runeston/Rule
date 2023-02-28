@@ -508,6 +508,7 @@ DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,canarymail.io
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,cloudflare.com
@@ -517,13 +518,15 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,nebula-emby.com
-DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,virtualearth.net
+DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,microsoft-falcon.io
+DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoftrewards.com
 DOMAIN-SUFFIX,community.nssurge.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,cloudflareinsights.com
-
 DOMAIN,1lib.to
 DOMAIN,lottery.tg
 DOMAIN,anti-ad.net
