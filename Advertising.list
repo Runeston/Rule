@@ -1199,3 +1199,9 @@ DOMAIN,data.mistat.xiaomi.com,REJECT
 DOMAIN,tracking.intl.miui.com,REJECT
 # > Tencent
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+
+# > other
+DOMAIN-SUFFIX,trafficjunky.com,REJECT
+DOMAIN-SUFFIX,adtng.com,REJECT
+DOMAIN-SUFFIX,optnx.com,REJECT
+DOMAIN,s3t3d2y8.afcdn.net,REJECT
