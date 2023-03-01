@@ -1,4 +1,7 @@
+DOMAIN-KEYWORD,adjust
 DOMAIN-KEYWORD,adservice
+DOMAIN-KEYWORD,advertising.com
+DOMAIN-KEYWORD,doubleclick.
 DOMAIN-KEYWORD,pingfore
 
 DOMAIN,ad.tencentmusic.com
@@ -100,6 +103,7 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,c0.ifengimg.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,clarity.ms
@@ -114,7 +118,6 @@ DOMAIN-SUFFIX,datax.baidu.com
 DOMAIN-SUFFIX,devs.data.mob.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,dn-growing.qbox.me
-DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,e.qq.com
