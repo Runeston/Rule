@@ -408,7 +408,7 @@ DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com
-# DOMAIN,store.steampowered.com
+DOMAIN,store.steampowered.com
 # > Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
