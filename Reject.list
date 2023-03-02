@@ -1,7 +1,6 @@
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,advertising.com
 DOMAIN-KEYWORD,doubleclick.
-DOMAIN-KEYWORD,pingfore
 
 
 DOMAIN,ad.tencentmusic.com
@@ -176,6 +175,7 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pb.sogou.com
 DOMAIN-SUFFIX,permutive.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pingfore.qq.com
 DOMAIN-SUFFIX,pingma.qq.com
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,promote.caixin.com
