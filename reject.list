@@ -1,4 +1,3 @@
-DOMAIN-KEYWORD,adjust
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,advertising.com
 DOMAIN-KEYWORD,doubleclick.
@@ -7,7 +6,7 @@ DOMAIN-KEYWORD,pingfore
 
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.toutiao.com
-DOMAIN,ad.flurry.com,REJECT
+DOMAIN,ad.flurry.com
 DOMAIN,adimg.uve.weibo.com
 DOMAIN,adimg.vue.weibo.com
 DOMAIN,admarketing.yahoo.net
@@ -16,7 +15,7 @@ DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
 DOMAIN,ads.auctions.yahoo.com
 DOMAIN,ads.finance.yahoo.com
-DOMAIN,ads.flurry.com,REJECT
+DOMAIN,ads.flurry.com
 DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 DOMAIN,ads.youtube.com
@@ -83,6 +82,7 @@ DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashxgc.ut.taobao.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,ads.msn.com
 DOMAIN-SUFFIX,ads1.msn.com
 DOMAIN-SUFFIX,ads2.msn.com
