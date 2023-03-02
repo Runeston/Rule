@@ -28,7 +28,6 @@ DOMAIN,als.baidu.com
 DOMAIN,amdc.m.taobao.com
 DOMAIN,appcloud.zhihu.com
 DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,btrace.qq.com
 DOMAIN,crash2.zhihu.com
 DOMAIN,dsp.toutiao.com
 DOMAIN,duclick.baidu.com
@@ -102,6 +101,7 @@ DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,biz.weibo.com
+DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,c0.ifengimg.com
