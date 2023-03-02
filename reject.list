@@ -4,8 +4,10 @@ DOMAIN-KEYWORD,advertising.com
 DOMAIN-KEYWORD,doubleclick.
 DOMAIN-KEYWORD,pingfore
 
+
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.toutiao.com
+DOMAIN,ad.flurry.com,REJECT
 DOMAIN,adimg.uve.weibo.com
 DOMAIN,adimg.vue.weibo.com
 DOMAIN,admarketing.yahoo.net
@@ -14,6 +16,7 @@ DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
 DOMAIN,ads.auctions.yahoo.com
 DOMAIN,ads.finance.yahoo.com
+DOMAIN,ads.flurry.com,REJECT
 DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 DOMAIN,ads.youtube.com
@@ -67,6 +70,7 @@ DOMAIN,tmead.y.qq.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,wa.gtimg.com
+DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,zgsdk.zhugeio.com
 
@@ -214,6 +218,10 @@ DOMAIN-SUFFIX,yun.lvehaisen.com
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 
+# bilibili
+IP-CIDR,203.107.1.1/24,no-resolve
+# tieba
+IP-CIDR,180.76.76.200/32,no-resolve
 
 # > ChinaUnicom
 IP-CIDR,106.75.231.48/32,no-resolve
@@ -228,4 +236,3 @@ IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve
 IP-CIDR,103.49.209.27/32,no-resolve
 IP-CIDR,123.56.152.96/32,no-resolve
-
