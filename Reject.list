@@ -221,9 +221,8 @@ DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 
-# bilibili
-IP-CIDR,203.107.1.1/24,no-resolve
 # tieba
+DOMAIN,180.76.76.200
 IP-CIDR,180.76.76.200/32,no-resolve
 
 # > ChinaUnicom
