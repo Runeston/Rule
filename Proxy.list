@@ -553,6 +553,7 @@ DOMAIN,api-iam.intercom.io
 DOMAIN,api.countapi.xyz
 DOMAIN,api.coinlayer.com
 DOMAIN,api.go-games.gg
+DOMAIN,api.nxtlnodes.com
 DOMAIN,busuanzi.ibruce.info
 DOMAIN,cache.agilebits.com
 DOMAIN,erro.life
@@ -570,11 +571,14 @@ DOMAIN,mobile.eum-appdynamics.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,reference.wolfram.com
 DOMAIN,res.stayfork.app
+DOMAIN,sub.nexconvert.com
+DOMAIN,subserver.maying.io
 DOMAIN,t.as-stats.com
 DOMAIN,video.primis.tech
 DOMAIN,workingcopy.app
 DOMAIN,workingcopyapp.com
 DOMAIN,www.69shu.com
+DOMAIN,www.eton.club
 DOMAIN,www.feiszw.com
 DOMAIN,www.kanshu5.la
 DOMAIN,www.surge-activation.com
