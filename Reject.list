@@ -95,10 +95,10 @@ DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,applog.uc.cn
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,aty.sohu.com
+DOMAIN-SUFFIX,b.bdstatic.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN-SUFFIX,bdimg.share.baidu.com
-DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,biz.weibo.com
@@ -156,6 +156,7 @@ DOMAIN-SUFFIX,lnk0.com
 DOMAIN-SUFFIX,log1.17173.com
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,mipcache.bdstatic.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mo.res.wpscdn.cn
@@ -195,6 +196,7 @@ DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,sis.jpush.io
 DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,stadig.ifeng.com
+DOMAIN-SUFFIX,su.bdstatic.com
 DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,the-ozone-project.com
 DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
@@ -218,6 +220,7 @@ DOMAIN-SUFFIX,yingxiao.baidu.com
 DOMAIN-SUFFIX,yun.lvehaisen.com
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+DOMAIN-SUFFIX,zz.bdstatic.com
 
 # bilibili
 IP-CIDR,203.107.1.1/24,no-resolve
