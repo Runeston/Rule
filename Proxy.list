@@ -13,14 +13,23 @@ DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandwagonhost.com
-DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.net.uk
+DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+DOMAIN-SUFFIX,bbci.co
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbcverticals.com
+DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,bullguard.com
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,change.org
@@ -40,6 +49,7 @@ DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlive.tv
 DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,earthcam.com
 DOMAIN-SUFFIX,edx-cdn.org
@@ -54,6 +64,8 @@ DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,ftimg.net
+DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,gfw.report
@@ -63,11 +75,13 @@ DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,hket.com
+DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,huffpost.com
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,ipchaxun.net
 DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istockphoto.com
@@ -88,6 +102,7 @@ DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
+DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,newstatesman.com
@@ -104,6 +119,7 @@ DOMAIN-SUFFIX,paste.ee
 DOMAIN-SUFFIX,pastie.org
 DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,peing.net
+DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,prism-break.org
@@ -138,6 +154,7 @@ DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,swissinfo.ch
 DOMAIN-SUFFIX,tapatalk.com
 DOMAIN-SUFFIX,techspot.com
+DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,theage.com.au
 DOMAIN-SUFFIX,theatlantic.com
@@ -153,8 +170,11 @@ DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tiny.cc
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,twdvd.com
+DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v2ex.com
@@ -294,7 +314,10 @@ DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
 # > Discord
+DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 # > Disney+
@@ -404,6 +427,7 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
 # > Steam
@@ -545,6 +569,25 @@ DOMAIN-SUFFIX,mastodon.cat
 DOMAIN-SUFFIX,framapiaf.org
 DOMAIN-SUFFIX,mastodon.social
 
+# 国外域名
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
+
+# 国外域名关键字
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,avtb
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,sci-hub
+
 # > 补充
 DOMAIN,1lib.to
 DOMAIN,adguard-ws-api
@@ -590,14 +633,13 @@ DOMAIN-SUFFIX,6sense.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,appsliced.co
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,bbci.co.uk
-DOMAIN-SUFFIX,bbcverticals.com
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,canarymail.io
@@ -616,18 +658,22 @@ DOMAIN-SUFFIX,dh-team.org
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,elastic.co
+DOMAIN-SUFFIX,elastic.com
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,foreca.com
 DOMAIN-SUFFIX,foreca.net
+DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,globe.com.ph
 DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,iosapp.canrike.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,jrsbxj.com
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
@@ -638,6 +684,8 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,make-safe-ai.com
 DOMAIN-SUFFIX,marketo.net
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsoftonline.com
@@ -647,6 +695,7 @@ DOMAIN-SUFFIX,mktoutil.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,nicegram.app
 DOMAIN-SUFFIX,notion-static.com
@@ -658,6 +707,8 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nu
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,redhat.com
 DOMAIN-SUFFIX,redirect.networkbench.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rsms.me
@@ -667,7 +718,11 @@ DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,sleazyfork.org
-DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,sonatype.org
+DOMAIN-SUFFIX,sourcegraph.com
+DOMAIN-SUFFIX,spring.io
+DOMAIN-SUFFIX,spring.net
+DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripocdn.email
