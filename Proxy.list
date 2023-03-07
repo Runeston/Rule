@@ -578,12 +578,7 @@ DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,us
-
-# 国外域名关键字
 DOMAIN-KEYWORD,abema
-DOMAIN-KEYWORD,avtb
-DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
@@ -745,6 +740,8 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,wixstatic.com
 DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,xteko.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,zdassets.com
