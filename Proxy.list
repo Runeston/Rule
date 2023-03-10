@@ -600,6 +600,7 @@ DOMAIN,c.disquscdn.com
 DOMAIN,cache.agilebits.com
 DOMAIN,chat.theb.ai
 DOMAIN,erro.life
+DOMAIN,fast.fonts.net
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,immersive-translate.owenyoung.com
 DOMAIN,jsboxbbs.com
@@ -613,7 +614,7 @@ DOMAIN,miniwebtool.com
 DOMAIN,mobile.eum-appdynamics.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,reference.wolfram.com
-DOMAIN,stayfork.app
+DOMAIN,res.luki.io
 DOMAIN,sentry-next.wixpress.com
 DOMAIN,sub.nexconvert.com
 DOMAIN,subserver.maying.io
@@ -732,6 +733,7 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stayfork.app
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripocdn.email
