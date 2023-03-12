@@ -720,6 +720,7 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,plausible.io
+DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,redhat.com
@@ -745,8 +746,10 @@ DOMAIN-SUFFIX,stripocdn.email
 DOMAIN-SUFFIX,swag.live
 DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,tr
+DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,virtualearth.net
 DOMAIN-SUFFIX,weapp.design
