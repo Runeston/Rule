@@ -214,6 +214,8 @@ DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazon.com
+DOMAIN,m.media-amazon.com
 DOMAIN,d3c33hcgiwev3.cloudfront.net
 DOMAIN,payments-jp.amazon.com
 DOMAIN,s3-ap-northeast-1.amazonaws.com
@@ -675,6 +677,7 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,globe.com.ph
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,iosapp.canrike.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,jable.tv
