@@ -14,14 +14,14 @@ DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bbc.co
-DOMAIN-SUFFIX,bbc.co.uk
+# DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bbc.net.uk
+# DOMAIN-SUFFIX,bbc.net.uk
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
-DOMAIN-SUFFIX,bbci.co.uk
+# DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bbcverticals.com
-DOMAIN-SUFFIX,bidi.net.uk
+# DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bit.no.com
@@ -36,8 +36,6 @@ DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,clyp.it
-DOMAIN-SUFFIX,cna.com.tw
-DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,dailymotion.com
@@ -82,7 +80,6 @@ DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,huffpost.com
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,ipchaxun.net
 DOMAIN-SUFFIX,is.gd
@@ -136,7 +133,6 @@ DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,rsshub.app
-DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,search.com
@@ -213,7 +209,7 @@ DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
 # > Amazon
-DOMAIN-SUFFIX,amazon.co.jp
+# DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN,m.media-amazon.com
 DOMAIN,d3c33hcgiwev3.cloudfront.net
@@ -285,39 +281,6 @@ DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN,clubhouse.pubnubapi.com
 # > Crypto
-DOMAIN-SUFFIX,aex.com
-DOMAIN-SUFFIX,bibox.com
-DOMAIN-SUFFIX,binance.cc
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binance.us
-DOMAIN-SUFFIX,bitcointalk.org
-DOMAIN-SUFFIX,bitfinex.com
-DOMAIN-SUFFIX,bithumb.com
-DOMAIN-SUFFIX,bitmex.com
-DOMAIN-SUFFIX,bitstamp.net
-DOMAIN-SUFFIX,bittrex.com
-DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,coincheck.com
-DOMAIN-SUFFIX,coingecko.com
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,coinone.co.kr
-DOMAIN-SUFFIX,etherscan.io
-DOMAIN-SUFFIX,ftx.com
-DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,gemini.com
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,korbit.co.kr
-DOMAIN-SUFFIX,kraken.com
-DOMAIN-SUFFIX,kucoin.com
-DOMAIN-SUFFIX,liquid.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,poloniex.com
-DOMAIN-SUFFIX,sushi.com
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,zb.com
 # > Discord
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
@@ -353,7 +316,7 @@ DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,naver.jp
+# DOMAIN-SUFFIX,naver.jp
 IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
@@ -440,11 +403,14 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN,store.steampowered.com
 # > Telegram
 DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,comments.app
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/22,no-resolve
 IP-CIDR,91.108.12.0/22,no-resolve
@@ -480,7 +446,7 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
+# DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
@@ -498,7 +464,7 @@ DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 # > Yahoo
 DOMAIN-SUFFIX,yahoo.com
-DOMAIN,search.yahoo.co.jp
+# DOMAIN,search.yahoo.co.jp
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN,disk.yandex.com
@@ -524,7 +490,7 @@ DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,zaobao.com.sg
+# DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,wego.here.com
 # > Alphabet
