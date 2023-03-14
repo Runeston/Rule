@@ -1,5 +1,3 @@
-# bilibili
-IP-CIDR,203.107.1.1/24,REJECT
 # tieba
 IP-CIDR,180.76.76.200/32,REJECT
 
