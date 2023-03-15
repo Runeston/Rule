@@ -582,6 +582,7 @@ DOMAIN,mfx.mobilefuse.com
 DOMAIN,miniwebtool.com
 DOMAIN,mobile.eum-appdynamics.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,prd.jwpltx.com
 DOMAIN,reference.wolfram.com
 DOMAIN,res.luki.io
 DOMAIN,sentry-next.wixpress.com
@@ -590,6 +591,7 @@ DOMAIN,subserver.maying.io
 DOMAIN,t.as-stats.com
 DOMAIN,talk.automators.fm
 DOMAIN,video.primis.tech
+DOMAIN,videoqoe-akamai.stvidtest.net
 DOMAIN,workingcopy.app
 DOMAIN,workingcopyapp.com
 DOMAIN,www.69shu.com
@@ -655,6 +657,7 @@ DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,jrsbxj.com
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,kanshu5.la
 DOMAIN-SUFFIX,lencr.org
@@ -707,7 +710,7 @@ DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,sourcegraph.com
-DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speed.misaka.one
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
