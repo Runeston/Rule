@@ -99,8 +99,6 @@ DOMAIN,adse.wsa.ximalaya.com
 DOMAIN,adse.ximalaya.com
 DOMAIN,adsebs.ximalaya.com
 DOMAIN,adserver.pandora.com
-DOMAIN,adservice.tohsoft.com
-DOMAIN,adserviceretry.kugou.com
 DOMAIN,adsfile.bssdlbig.kugou.com
 DOMAIN,adsfilebssdlbig.tx.kugou.com
 DOMAIN,adsfs.oppomobile.com
@@ -542,7 +540,6 @@ DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,cpro.tieba.baidu.com
 DOMAIN-SUFFIX,cpro.zhidao.baidu.com
 DOMAIN-SUFFIX,cpx.to
-DOMAIN-SUFFIX,crispadvertising.com
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,crwdcntrl.net
@@ -578,8 +575,6 @@ DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,eclick.360doc.com
 DOMAIN-SUFFIX,edigitalsurvey.com
 DOMAIN-SUFFIX,eiv.baidu.com
-DOMAIN-SUFFIX,ero-advertising.com
-DOMAIN-SUFFIX,eroadvertising.com
 DOMAIN-SUFFIX,exdynsrv.com
 DOMAIN-SUFFIX,exosrv.com
 DOMAIN-SUFFIX,eyeviewads.com
@@ -592,7 +587,6 @@ DOMAIN-SUFFIX,gg.jtertp.com
 DOMAIN-SUFFIX,go.sohu.com
 DOMAIN-SUFFIX,go2cloud.org
 DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
