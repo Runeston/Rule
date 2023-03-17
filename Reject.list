@@ -13,7 +13,6 @@ DOMAIN,ma-adx.ctrip.com
 DOMAIN,s3t3d2y8.afcdn.net
 DOMAIN,uedas.qidian.com
 
-DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,ad.gt
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashxgc.ut.taobao.com
@@ -64,6 +63,11 @@ DOMAIN-SUFFIX,wanproxy.127.net
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yun.lvehaisen.com
+
+# > 51.LA
+DOMAIN,js.users.51.la
+DOMAIN,mc.51.la
+DOMAIN,wc.51.la
 
 # > Apple
 DOMAIN-SUFFIX,iadsdk.apple.com
