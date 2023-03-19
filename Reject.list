@@ -7,10 +7,12 @@ DOMAIN,ad.jiemian.com
 DOMAIN,adjust.com
 # DOMAIN,amdc.m.taobao.com
 DOMAIN,channel-analysis-js.gmw.cn
+DOMAIN,data.mistat.xiaomi.com
 DOMAIN,data.vod.itc.cn
 DOMAIN,js.zol.com.cn
 DOMAIN,ma-adx.ctrip.com
 DOMAIN,s3t3d2y8.afcdn.net
+DOMAIN,tracking.intl.miui.com
 DOMAIN,uedas.qidian.com
 
 DOMAIN-SUFFIX,ad.gt
@@ -54,6 +56,7 @@ DOMAIN-SUFFIX,sis.jpush.io
 DOMAIN-SUFFIX,smaato.com
 DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,track.uc.cn
+DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,trafficjunky.com
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,uyunad.com
