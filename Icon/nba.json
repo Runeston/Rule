@@ -1,0 +1,42 @@
+{
+	"name": "NBA LOGOS",
+	"description": "By RUNESTONE",
+	"icons": [
+		{
+			"name": "Huren",
+			"url": "https://github.com/Runeston/Rule/raw/main/Icon/Huren.png"
+		},
+		{
+			"name": "Kaierteren",
+			"url": "https://github.com/Runeston/Rule/raw/main/Icon/Kaierteren.png"
+		},
+		{
+			"name": "Gongniu",
+			"url": "https://github.com/Runeston/Rule/raw/main/Icon/Gongniu.png"
+		},
+		{
+			"name": "Yongshi",
+			"url": "https://github.com/Runeston/Rule/raw/main/Icon/Yongshi.png"
+		},
+		{
+			"name": "Maci",
+			"url": "https://github.com/Runeston/Rule/raw/main/Icon/Maci.png"
+		},
+		{
+			"name": "Jazz",
+			"url": "https://github.com/Runeston/script/raw/main/Logo/UTA.png"
+		},
+		{
+			"name": "Wizard",
+			"url": "https://github.com/Runeston/script/raw/main/Logo/WAS.png"
+		},
+		{
+			"name": "Clippers",
+			"url": "https://github.com/Runeston/script/raw/main/Logo/LAC.png"
+		},
+		{
+			"name": "Free-square",
+			"url": "https://github.com/Runeston/script/raw/main/Logo/PHX.png"
+		}
+	]
+}
