@@ -122,6 +122,7 @@ DOMAIN,log.ycapp.yiche.com
 # > ByteDance
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN,ad.toutiao.com
 DOMAIN,dsp.toutiao.com
