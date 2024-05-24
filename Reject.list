@@ -2,6 +2,7 @@ DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,advertising.com
 DOMAIN-KEYWORD,doubleclick.
 
+
 DOMAIN,ad.caiyunapp.com
 DOMAIN,ad.flurry.com
 DOMAIN,ad.jiemian.com
@@ -17,7 +18,9 @@ DOMAIN,mbdp02.bdstatic.com
 DOMAIN,s3t3d2y8.afcdn.net
 DOMAIN,tracking.intl.miui.com
 DOMAIN,uedas.qidian.com
+DOMAIN,api-access.pangolin-sdk-toutiao1.com
 
+DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,ad.gt
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
@@ -123,7 +126,6 @@ DOMAIN,log.ycapp.yiche.com
 # > ByteDance
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN,ad.toutiao.com
 DOMAIN,dsp.toutiao.com

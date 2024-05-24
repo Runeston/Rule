@@ -1,0 +1,31 @@
+# > QQ
+DOMAIN,sdk.e.qq.com
+DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN,otheve.beacon.qq.com
+DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN,ios.rqd.qq.com
+DOMAIN,tmead.y.qq.com
+DOMAIN,adstats.tencentmusic.com
+DOMAIN,ad.tencentmusic.com
+
+# > Others
+DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
+DOMAIN,nsclick.baidu.com
+DOMAIN,feed.baidu.com
+DOMAIN-SUFFIX,baikebcs.bdimg.com
+DOMAIN-SUFFIX,inapps.appsflyer.com
+DOMAIN,als.baidu.com
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN,mixer.sina.cn
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,www.qchannel01.cn
+DOMAIN-SUFFIX,trafficjunky.net
+DOMAIN,statics.woozooo.com
+DOMAIN,www.clarity.ms
+DOMAIN,www.google-analytics.com
+DOMAIN,static.trafficjunky.com
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN,pingfore.qq.com
+DOMAIN,zhihu-web-analytics.zhihu.com

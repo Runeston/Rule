@@ -203,6 +203,7 @@ DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
+DOMAIN,b.p-p.men
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 # > Akamai
@@ -510,7 +511,7 @@ DOMAIN,books.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN,tv.apple.com
 # > News
-DOMAIN,gateway.icloud.com
+#DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
@@ -556,6 +557,7 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,speedtest
 
 # > 补充
+DOMAIN,api.swiftgram.app
 DOMAIN,1lib.to
 DOMAIN,adguard-ws-api
 DOMAIN,anti-ad.net
@@ -626,6 +628,7 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,combot.org
 DOMAIN-SUFFIX,craft.do
+DOMAIN-SUFFIX,craft.me
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,cubox.cc
 DOMAIN-SUFFIX,customer.io
