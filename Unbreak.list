@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,gc.apple.com
 DOMAIN-SUFFIX,icloud.apple.com
-DOMAIN-SUFFIX,icloud.com
+#DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-content.com.cn
@@ -52,23 +52,6 @@ DOMAIN-KEYWORD,icloud.com.akadns.net
 # DOMAIN-SUFFIX,mail.icloud.com.cn
 DOMAIN-SUFFIX,mail.me.com
 # > System
-USER-AGENT,*com.apple.mobileme.fmip1
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,%E5%9C%B0%E5%9B%BE*
-USER-AGENT,%E8%AE%BE%E7%BD%AE*
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.Maps
-USER-AGENT,com.apple.trustd*
-USER-AGENT,FindMyFriends*
-USER-AGENT,FindMyiPhone*
-USER-AGENT,FMDClient*
-USER-AGENT,FMFD*
-USER-AGENT,fmflocatord*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,Maps*
-USER-AGENT,TestFlight*
-USER-AGENT,trustd*
 DOMAIN,api.smoot.apple.com
 DOMAIN,captive.apple.com
 DOMAIN,xp.apple.com
@@ -78,14 +61,6 @@ DOMAIN,smp-device-content.apple.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,time-ios.apple.com
-DOMAIN-SUFFIX,time.apple.com
-DOMAIN-SUFFIX,time.asia.apple.com
-DOMAIN-SUFFIX,weather-analytics-events.apple.com
-DOMAIN-SUFFIX,weather-data.apple.com
-DOMAIN-SUFFIX,weather-edge.apple.com
-DOMAIN-SUFFIX,weather-map.apple.com
-DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,mesu.apple.com
 DOMAIN,api.smoot.apple.cn
@@ -103,8 +78,11 @@ DOMAIN,api.weibo.cn
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,weibocdn.com
 # hupu
+DOMAIN,nur.hupu.com
+DOMAIN,m.hupu.com
 DOMAIN,sentry.hupu.com
 DOMAIN,collect.hupu.com
+DOMAIN,passport.hupu.com
 DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,mobileapi.hupu.com
 DOMAIN-SUFFIX,oss-cn-hangzhou.aliyuncs.com
@@ -115,6 +93,28 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
 
-# Other
-DOMAIN,ad.12306.cn
-DOMAIN-SUFFIX,gongkaoleida.com
+# China Area Network
+DOMAIN-SUFFIX,flyert.com
+DOMAIN-SUFFIX,snapdrop.net
+DOMAIN,origin-a.akamaihd.net
+
+# Windows Server Update Services
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN,download.microsoft.com
+DOMAIN,wustat.windows.com
+DOMAIN,ntservicepack.microsoft.com
+
+# Tencent
+IP-CIDR,182.254.116.0/24,no-resolve
+IP-CIDR,203.205.238.0/23,no-resolve
+IP-CIDR,203.205.254.0/23,no-resolve
+
+# other
+DOMAIN,ae85.cn
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN,hotmailcom-login.email
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,speedtest.cn
